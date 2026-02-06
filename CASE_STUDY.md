@@ -98,6 +98,7 @@ Most importantly, the website is **actively usable**, not just a concept.
 
 https://sevenseastravels.framer.website/
 
+---
 
 # **Key Learnings & Academic Relevance**
 

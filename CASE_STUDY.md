@@ -94,25 +94,10 @@ Most importantly, the website is **actively usable**, not just a concept.
 
 ---
 
-# Screenshots / Visuals
-
-Live Website:
+# Live Website:
 
 https://sevenseastravels.framer.website/
 
-Screenshots
-
-![image.png](attachment:162024dd-a980-44bf-8ce2-eef4a4f2eb11:image.png)
-
-![image.png](attachment:364db718-bf0c-4cce-8fda-3d671e1aa94a:image.png)
-
-![image.png](attachment:3b707245-118c-4b7f-98bc-d427a343dd4b:image.png)
-
-![image.png](attachment:222e320c-dd91-460d-b90a-e5a4aa81ac71:image.png)
-
-![image.png](attachment:af02e819-7528-4b5a-a116-8f36430a2ecf:image.png)
-
----
 
 # **Key Learnings & Academic Relevance**
 

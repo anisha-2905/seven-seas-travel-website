@@ -16,7 +16,7 @@ A modern, responsive travel agency website to promote tour packages and services
 - Published live website
 
 ## Live Website
-https://sevenseastravels.framer.website/
+https://sevenseastravel.in
 
 ## Note
 This project was built using Framer, so source code is not available.  
